@@ -82,7 +82,7 @@ The table below contains categories with desription and actions triggered.
 
 ### Flowchart
 
-You can see the flowchart [**here](https://excalidraw.com/#json=28getxtJkDem7np_0TT3d,Ks7l9-WCtEgkjehx1OIoUQ).** 
+You can see the flowchart [**here**](https://excalidraw.com/#json=28getxtJkDem7np_0TT3d,Ks7l9-WCtEgkjehx1OIoUQ).
 
 In case the link doesn’t work you can download the flowchart and open it in [**excalidraw.com**](http://excalidraw.com/)
 
