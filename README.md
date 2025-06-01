@@ -16,16 +16,6 @@ To illustrate a real-world use case, I’ve framed it as a case study for a fict
 
 **Volume of Emails Daily:** 150+ emails from clients, partners, customs, and suppliers
 
-### Automation Solution
-
-**Email Assistant Bot** built with:
-
-- **Gmail**
-- **Make.com**
-- **Slack**
-- **Gemini AI**
-- **Google Sheets**
-
 ### Pain Points
 
 - Manual sorting of emails consumes 3–4 hours daily.
@@ -42,7 +32,6 @@ To illustrate a real-world use case, I’ve framed it as a case study for a fict
 
 In this context, we’ve identified the following categories and actions:
 
-## Project Breakdown
 
 ### Email Categories
 
@@ -56,6 +45,16 @@ The table below contains categories with desription and actions triggered.
 | **Partnership & Sales** | New service offers, supplier relations, RFPs | Move to folder → Mark as read |
 | **Marketing & Newsletters** | Subscriptions, campaigns, promotional emails | Move to folder → Mark as read |
 | **Read Later** | Emails that don't match any of the above categories | Move to folder → Mark as read |
+
+### Automation Solution
+
+**Email Assistant Bot** built with:
+
+- **Gmail**
+- **Make.com**
+- **Slack**
+- **Gemini AI**
+- **Google Sheets**
 
 ### Why these tools ?
 
