@@ -2,6 +2,10 @@
 
 # Overview
 
+https://github.com/user-attachments/assets/55e1c0d8-ee4d-487b-acda-71ef0ff31238
+
+
+
 This project is a workflow built with [Make.com](http://make.com/) that automatically **sorts incoming emails, performs category-specific actions, and marks them as read**.
 
 To illustrate a real-world use case, I’ve framed it as a case study for a fictitious logistics company called **AfriLogistics**, a small business in the **Logistics & Supply Chain** sector.
